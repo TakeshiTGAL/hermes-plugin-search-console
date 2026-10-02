@@ -1,0 +1,50 @@
+hermes-plugin-search-console
+Copyright (c) 2026 TakeshiTGAL. Licensed under the MIT License (see LICENSE).
+
+This project adapts material from the following MIT-licensed work.
+
+------------------------------------------------------------------------------
+open-seo-mcp-skills — https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills
+(read at commit 81ac50e95131c8172b3afd9ac4994de6ae455a04)
+
+What was adapted:
+  - skills/seo-audit/SKILL.md and skills/rank-tracking/SKILL.md in this repository are adapted
+    from that project's skills of the same names (workflow, output order, fallbacks), rewritten
+    for this plugin's tools.
+  - The audit lenses and thresholds in gsc_core/analysis.py follow those skills: CTR anomalies
+    at good positions (position <= 5 with CTR < 2% is kept as the fallback rule), striking
+    distance at positions 8-20, decaying pages (clicks down 30% or more), cannibalisation,
+    winners / losers / new / lost, and ranking losers by clicks lost.
+  - The split of the plugin into one tool per job (audit, rank tracking, ...) mirrors the
+    split of those skills.
+
+MIT License
+
+Copyright (c) 2026 Ryze AI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+------------------------------------------------------------------------------
+Acknowledgements (ideas only; no code or text copied):
+  - mcp-gsc by Amin Foroutan (MIT) — https://github.com/AminForou/mcp-gsc
+    final vs. all data states, and naming the property-format mistake in permission errors.
+  - mcp-server-gsc by ahonn (MIT, per package.json) — https://github.com/ahonn/mcp-server-gsc
+    "quick wins" framing and paging past the 25,000-row limit.
+  - marketingskills seo-audit by Corey Haines (MIT) — https://github.com/coreyhaines31/marketingskills
+    issue / evidence / fix structure of each finding.

@@ -1,0 +1,1358 @@
+{
+ "site": "sc-domain:example.jp",
+ "today": "2026-10-02",
+ "sites": {
+  "siteEntry": [
+   {
+    "siteUrl": "sc-domain:example.jp",
+    "permissionLevel": "siteRestrictedUser"
+   },
+   {
+    "siteUrl": "https://other.example/",
+    "permissionLevel": "siteUnverifiedUser"
+   }
+  ]
+ },
+ "date_probe": {
+  "rows": [
+   {
+    "keys": [
+     "2026-09-25"
+    ],
+    "clicks": 5,
+    "impressions": 100,
+    "ctr": 0.05,
+    "position": 6.0
+   },
+   {
+    "keys": [
+     "2026-09-26"
+    ],
+    "clicks": 5,
+    "impressions": 100,
+    "ctr": 0.05,
+    "position": 6.0
+   },
+   {
+    "keys": [
+     "2026-09-27"
+    ],
+    "clicks": 5,
+    "impressions": 100,
+    "ctr": 0.05,
+    "position": 6.0
+   },
+   {
+    "keys": [
+     "2026-09-28"
+    ],
+    "clicks": 5,
+    "impressions": 100,
+    "ctr": 0.05,
+    "position": 6.0
+   },
+   {
+    "keys": [
+     "2026-09-29"
+    ],
+    "clicks": 5,
+    "impressions": 100,
+    "ctr": 0.05,
+    "position": 6.0
+   },
+   {
+    "keys": [
+     "2026-09-30"
+    ],
+    "clicks": 5,
+    "impressions": 100,
+    "ctr": 0.05,
+    "position": 6.0
+   },
+   {
+    "keys": [
+     "2026-10-01"
+    ],
+    "clicks": 5,
+    "impressions": 100,
+    "ctr": 0.05,
+    "position": 6.0
+   }
+  ],
+  "responseAggregationType": "byProperty",
+  "metadata": {
+   "firstIncompleteDate": "2026-09-30"
+  }
+ },
+ "windows": {
+  "2026-09-23": {
+   "totals": {
+    "rows": [
+     {
+      "clicks": 285,
+      "impressions": 4137,
+      "ctr": 0.06889050036258158,
+      "position": 6.1
+     }
+    ],
+    "responseAggregationType": "byProperty"
+   },
+   "query": {
+    "rows": [
+     {
+      "keys": [
+       "食パン レシピ"
+      ],
+      "clicks": 30,
+      "impressions": 600,
+      "ctr": 0.05,
+      "position": 3.2
+     },
+     {
+      "keys": [
+       "パン 用語 0-2"
+      ],
+      "clicks": 24,
+      "impressions": 80,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-1"
+      ],
+      "clicks": 21,
+      "impressions": 70,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-0"
+      ],
+      "clicks": 18,
+      "impressions": 60,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-2"
+      ],
+      "clicks": 16,
+      "impressions": 80,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-1"
+      ],
+      "clicks": 14,
+      "impressions": 70,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-0"
+      ],
+      "clicks": 12,
+      "impressions": 60,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-2"
+      ],
+      "clicks": 10,
+      "impressions": 80,
+      "ctr": 0.125,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-1"
+      ],
+      "clicks": 8,
+      "impressions": 70,
+      "ctr": 0.11428571428571428,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-0"
+      ],
+      "clicks": 7,
+      "impressions": 60,
+      "ctr": 0.11666666666666667,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 3-2"
+      ],
+      "clicks": 6,
+      "impressions": 80,
+      "ctr": 0.075,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-1"
+      ],
+      "clicks": 5,
+      "impressions": 70,
+      "ctr": 0.07142857142857142,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "天然酵母 起こし方"
+      ],
+      "clicks": 4,
+      "impressions": 120,
+      "ctr": 0.03333333333333333,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 3-0"
+      ],
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "ホームベーカリー おすすめ 機種"
+      ],
+      "clicks": 3,
+      "impressions": 250,
+      "ctr": 0.012,
+      "position": 12.5
+     },
+     {
+      "keys": [
+       "パン 用語 4-1"
+      ],
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-2"
+      ],
+      "clicks": 3,
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "食パン　レシピ"
+      ],
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 3.4
+     },
+     {
+      "keys": [
+       "パン 発酵 時間"
+      ],
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 6.5
+     },
+     {
+      "keys": [
+       "パン 用語 4-0"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 5-0"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-1"
+      ],
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-2"
+      ],
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 作り方 初心者"
+      ],
+      "clicks": 1,
+      "impressions": 300,
+      "ctr": 0.0033333333333333335,
+      "position": 4.1
+     },
+     {
+      "keys": [
+       "パン 用語 6-0"
+      ],
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-1"
+      ],
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-2"
+      ],
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 13.0
+     }
+    ],
+    "responseAggregationType": "byProperty"
+   },
+   "page": {
+    "rows": [
+     {
+      "keys": [
+       "https://example.jp/recipes/shokupan.html"
+      ],
+      "clicks": 40,
+      "impressions": 900,
+      "ctr": 0.044444444444444446,
+      "position": 3.3
+     },
+     {
+      "keys": [
+       "https://example.jp/guide/hajimete/"
+      ],
+      "clicks": 1,
+      "impressions": 300,
+      "ctr": 0.0033333333333333335,
+      "position": 4.1
+     },
+     {
+      "keys": [
+       "https://example.jp/guide/tennen-kobo/"
+      ],
+      "clicks": 4,
+      "impressions": 120,
+      "ctr": 0.03333333333333333,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "https://example.jp/home-bakery/"
+      ],
+      "clicks": 3,
+      "impressions": 250,
+      "ctr": 0.012,
+      "position": 12.5
+     },
+     {
+      "keys": [
+       "https://example.jp/blog/hakko/"
+      ],
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 6.5
+     },
+     {
+      "keys": [
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 40,
+      "impressions": 1500,
+      "ctr": 0.02666666666666667,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "https://example.jp/company/"
+      ],
+      "clicks": 3,
+      "impressions": 90,
+      "ctr": 0.03333333333333333,
+      "position": 4.0
+     }
+    ],
+    "responseAggregationType": "byPage"
+   },
+   "query,page": {
+    "rows": [
+     {
+      "keys": [
+       "食パン レシピ",
+       "https://example.jp/recipes/shokupan.html"
+      ],
+      "clicks": 30,
+      "impressions": 600,
+      "ctr": 0.05,
+      "position": 3.2
+     },
+     {
+      "keys": [
+       "食パン　レシピ",
+       "https://example.jp/recipes/shokupan.html"
+      ],
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 3.4
+     },
+     {
+      "keys": [
+       "パン 作り方 初心者",
+       "https://example.jp/guide/hajimete/"
+      ],
+      "clicks": 1,
+      "impressions": 300,
+      "ctr": 0.0033333333333333335,
+      "position": 4.1
+     },
+     {
+      "keys": [
+       "天然酵母 起こし方",
+       "https://example.jp/guide/tennen-kobo/"
+      ],
+      "clicks": 4,
+      "impressions": 120,
+      "ctr": 0.03333333333333333,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "ホームベーカリー おすすめ 機種",
+       "https://example.jp/home-bakery/"
+      ],
+      "clicks": 3,
+      "impressions": 250,
+      "ctr": 0.012,
+      "position": 12.5
+     },
+     {
+      "keys": [
+       "パン 発酵 時間",
+       "https://example.jp/blog/hakko/"
+      ],
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 6.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 18,
+      "impressions": 60,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 21,
+      "impressions": 70,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 24,
+      "impressions": 80,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 12,
+      "impressions": 60,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 14,
+      "impressions": 70,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 16,
+      "impressions": 80,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 7,
+      "impressions": 60,
+      "ctr": 0.11666666666666667,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 8,
+      "impressions": 70,
+      "ctr": 0.11428571428571428,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 10,
+      "impressions": 80,
+      "ctr": 0.125,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 3-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 5,
+      "impressions": 70,
+      "ctr": 0.07142857142857142,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 6,
+      "impressions": 80,
+      "ctr": 0.075,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 3,
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 5-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 6-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 13.0
+     }
+    ],
+    "responseAggregationType": "byPage"
+   }
+  },
+  "2026-09-16": {
+   "totals": {
+    "rows": [
+     {
+      "clicks": 301,
+      "impressions": 3981,
+      "ctr": 0.07560914343129867,
+      "position": 5.8
+     }
+    ],
+    "responseAggregationType": "byProperty"
+   },
+   "query": {
+    "rows": [
+     {
+      "keys": [
+       "食パン レシピ"
+      ],
+      "clicks": 28,
+      "impressions": 560,
+      "ctr": 0.05,
+      "position": 3.0
+     },
+     {
+      "keys": [
+       "パン 用語 0-2"
+      ],
+      "clicks": 24,
+      "impressions": 80,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-1"
+      ],
+      "clicks": 21,
+      "impressions": 70,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-0"
+      ],
+      "clicks": 18,
+      "impressions": 60,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-2"
+      ],
+      "clicks": 16,
+      "impressions": 80,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-1"
+      ],
+      "clicks": 14,
+      "impressions": 70,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "天然酵母 起こし方"
+      ],
+      "clicks": 12,
+      "impressions": 130,
+      "ctr": 0.09230769230769231,
+      "position": 5.2
+     },
+     {
+      "keys": [
+       "パン 用語 1-0"
+      ],
+      "clicks": 12,
+      "impressions": 60,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-2"
+      ],
+      "clicks": 10,
+      "impressions": 80,
+      "ctr": 0.125,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-1"
+      ],
+      "clicks": 8,
+      "impressions": 70,
+      "ctr": 0.11428571428571428,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-0"
+      ],
+      "clicks": 7,
+      "impressions": 60,
+      "ctr": 0.11666666666666667,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 作り方 初心者"
+      ],
+      "clicks": 6,
+      "impressions": 280,
+      "ctr": 0.02142857142857143,
+      "position": 4.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-2"
+      ],
+      "clicks": 6,
+      "impressions": 80,
+      "ctr": 0.075,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-1"
+      ],
+      "clicks": 5,
+      "impressions": 70,
+      "ctr": 0.07142857142857142,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-0"
+      ],
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "ホームベーカリー おすすめ 機種"
+      ],
+      "clicks": 3,
+      "impressions": 200,
+      "ctr": 0.015,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-1"
+      ],
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-2"
+      ],
+      "clicks": 3,
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "食パン　レシピ"
+      ],
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 3.3
+     },
+     {
+      "keys": [
+       "パン 発酵 時間"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-0"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 5-0"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-1"
+      ],
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-2"
+      ],
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 6-0"
+      ],
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-1"
+      ],
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-2"
+      ],
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 13.0
+     }
+    ],
+    "responseAggregationType": "byProperty"
+   },
+   "page": {
+    "rows": [
+     {
+      "keys": [
+       "https://example.jp/recipes/shokupan"
+      ],
+      "clicks": 38,
+      "impressions": 850,
+      "ctr": 0.04470588235294118,
+      "position": 3.2
+     },
+     {
+      "keys": [
+       "https://example.jp/guide/hajimete/"
+      ],
+      "clicks": 6,
+      "impressions": 280,
+      "ctr": 0.02142857142857143,
+      "position": 4.0
+     },
+     {
+      "keys": [
+       "https://example.jp/guide/tennen-kobo/"
+      ],
+      "clicks": 12,
+      "impressions": 130,
+      "ctr": 0.09230769230769231,
+      "position": 5.2
+     },
+     {
+      "keys": [
+       "https://example.jp/home-bakery/"
+      ],
+      "clicks": 3,
+      "impressions": 200,
+      "ctr": 0.015,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "https://example.jp/blog/hakko/"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 40,
+      "impressions": 1500,
+      "ctr": 0.02666666666666667,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "https://example.jp/about"
+      ],
+      "clicks": 3,
+      "impressions": 85,
+      "ctr": 0.03529411764705882,
+      "position": 4.2
+     },
+     {
+      "keys": [
+       "https://example.jp/old-campaign/"
+      ],
+      "clicks": 5,
+      "impressions": 80,
+      "ctr": 0.0625,
+      "position": 6.0
+     }
+    ],
+    "responseAggregationType": "byPage"
+   },
+   "query,page": {
+    "rows": [
+     {
+      "keys": [
+       "食パン レシピ",
+       "https://example.jp/recipes/shokupan.html"
+      ],
+      "clicks": 28,
+      "impressions": 560,
+      "ctr": 0.05,
+      "position": 3.0
+     },
+     {
+      "keys": [
+       "食パン　レシピ",
+       "https://example.jp/recipes/shokupan.html"
+      ],
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 3.3
+     },
+     {
+      "keys": [
+       "パン 作り方 初心者",
+       "https://example.jp/guide/hajimete/"
+      ],
+      "clicks": 6,
+      "impressions": 280,
+      "ctr": 0.02142857142857143,
+      "position": 4.0
+     },
+     {
+      "keys": [
+       "天然酵母 起こし方",
+       "https://example.jp/guide/tennen-kobo/"
+      ],
+      "clicks": 12,
+      "impressions": 130,
+      "ctr": 0.09230769230769231,
+      "position": 5.2
+     },
+     {
+      "keys": [
+       "ホームベーカリー おすすめ 機種",
+       "https://example.jp/home-bakery/"
+      ],
+      "clicks": 3,
+      "impressions": 200,
+      "ctr": 0.015,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 発酵 時間",
+       "https://example.jp/blog/hakko/"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 0-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 18,
+      "impressions": 60,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 21,
+      "impressions": 70,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 0-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 24,
+      "impressions": 80,
+      "ctr": 0.3,
+      "position": 1.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 12,
+      "impressions": 60,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 14,
+      "impressions": 70,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 1-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 16,
+      "impressions": 80,
+      "ctr": 0.2,
+      "position": 2.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 7,
+      "impressions": 60,
+      "ctr": 0.11666666666666667,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 8,
+      "impressions": 70,
+      "ctr": 0.11428571428571428,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 2-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 10,
+      "impressions": 80,
+      "ctr": 0.125,
+      "position": 3.5
+     },
+     {
+      "keys": [
+       "パン 用語 3-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 5,
+      "impressions": 70,
+      "ctr": 0.07142857142857142,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 3-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 6,
+      "impressions": 80,
+      "ctr": 0.075,
+      "position": 5.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 4-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 3,
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 7.0
+     },
+     {
+      "keys": [
+       "パン 用語 5-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 5-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 9.5
+     },
+     {
+      "keys": [
+       "パン 用語 6-0",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-1",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 13.0
+     },
+     {
+      "keys": [
+       "パン 用語 6-2",
+       "https://example.jp/glossary/"
+      ],
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 13.0
+     }
+    ],
+    "responseAggregationType": "byPage"
+   }
+  }
+ },
+ "sitemaps": {
+  "sitemap": [
+   {
+    "path": "https://example.jp/sitemap.xml",
+    "lastSubmitted": "2026-09-01T00:00:00Z",
+    "isPending": false,
+    "isSitemapsIndex": false,
+    "lastDownloaded": "2026-09-28T00:00:00Z",
+    "warnings": "0",
+    "errors": "0",
+    "contents": [
+     {
+      "type": "web",
+      "submitted": "42",
+      "indexed": "0"
+     }
+    ]
+   }
+  ]
+ },
+ "inspections": {
+  "https://example.jp/old-campaign/": {
+   "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect",
+    "indexStatusResult": {
+     "verdict": "NEUTRAL",
+     "coverageState": "noindex タグによって除外されました",
+     "robotsTxtState": "ALLOWED",
+     "indexingState": "BLOCKED_BY_META_TAG",
+     "pageFetchState": "SUCCESSFUL",
+     "lastCrawlTime": "2026-09-20T03:11:00Z",
+     "googleCanonical": "",
+     "userCanonical": ""
+    }
+   }
+  },
+  "https://example.jp/about": {
+   "inspectionResult": {
+    "inspectionResultLink": "https://search.google.com/search-console/inspect",
+    "indexStatusResult": {
+     "verdict": "NEUTRAL",
+     "coverageState": "ページにリダイレクトがあります",
+     "robotsTxtState": "ALLOWED",
+     "indexingState": "INDEXING_ALLOWED",
+     "pageFetchState": "SUCCESSFUL",
+     "lastCrawlTime": "2026-09-18T01:00:00Z",
+     "googleCanonical": "https://example.jp/company/",
+     "userCanonical": "https://example.jp/company/"
+    }
+   }
+  }
+ }
+}

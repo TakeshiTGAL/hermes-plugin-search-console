@@ -1,0 +1,42 @@
+name: search-console-checkup
+version: 0.1.0
+manifest_version: 2
+description: >-
+  A weekly SEO check of your own site, built on the Google Search Console API: it compares only
+  finished days and names the 3 fixes worth doing first, plus audit, rank changes, raw queries and
+  URL Inspection. Read-only; service-account key, no browser sign-in, safe for cron.
+author: TakeshiTGAL
+license: MIT
+homepage: https://github.com/TakeshiTGAL/hermes-plugin-search-console
+tags: [seo, search-console, google, analytics, cron, japanese]
+requires_hermes: ">=0.21.5"
+
+provides_tools:
+  - gsc_weekly_report
+  - gsc_audit
+  - gsc_rank_changes
+  - gsc_query
+  - gsc_inspect_url
+  - gsc_sites
+
+requires_env:
+  - name: GSC_CREDENTIALS_FILE
+    description: >-
+      Full path to the JSON key of a Google Cloud service account (or an OAuth authorized_user file)
+      that has been added in Search Console under Settings -> Users and permissions. See the README's
+      Setup section.
+    url: https://github.com/TakeshiTGAL/hermes-plugin-search-console#setup
+    secret: false
+
+config_schema:
+  default_site:
+    type: str
+    default: ""
+    label: Default property
+    description: "Used when a tool is called without site_url, e.g. sc-domain:example.com"
+  language:
+    type: str
+    choices: [auto, en, ja]
+    default: auto
+    label: Report language
+    description: "auto = Japanese when most of the site's searches are Japanese"

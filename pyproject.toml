@@ -1,0 +1,17 @@
+[project]
+name = "hermes-plugin-search-console-checkup"
+version = "0.1.0"
+description = "Weekly SEO check for Hermes Agent, built on the Google Search Console API"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [{ name = "TakeshiTGAL" }]
+# google-auth signs the service-account token and refreshes OAuth user tokens; requests is its
+# HTTP transport (AuthorizedSession). Floors are long-standing releases, upper bounds are the next major.
+dependencies = [
+  "google-auth>=2.20,<3",
+  "requests>=2.31,<3",
+]
+
+[tool.ruff]
+line-length = 120
